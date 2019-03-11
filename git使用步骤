@@ -1,0 +1,28 @@
+初始化配置:
+
+配置用户名
+e.g. 配置用户名为Tedu
+sudo git config --system user.name Tedu
+
+配置用户邮箱
+e.g. 配置用户邮箱lvze@tedu.cn
+git config --global user.email lvze@tedu.cn
+
+配置编译器
+e.g. 为当前项目配置编译器
+git config core.editor vscode
+
+配置完成以后:
+git clone https://github.com/yx287618817/Mynote.git
+
+以上配置一次就不用再管了
+
+然后就可以把MyProgram作为自己的项目文件进行操作
+每天操作完成以后
+git add .
+git commit -m '你今天修改的内容,尽可能具体'
+git push -u origin master
+
+
+每天第一次打开文件夹执行
+git pull https://github.com/yx287618817/Mynote.git
