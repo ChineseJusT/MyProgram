@@ -13,3 +13,6 @@ school_database.py
 SChool_Server文件夹:
 存放学校的服务器文件
 settings配置文件信息
+
+胡宇更改
+
