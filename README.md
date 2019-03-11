@@ -1,4 +1,4 @@
-
+﻿
 数据库:放在文件夹static下的DataBase
 总数据库名称:School
 
@@ -13,3 +13,4 @@ school_database.py
 SChool_Server文件夹:
 存放学校的服务器文件
 settings配置文件信息
+胡宇更改了文件
